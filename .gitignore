@@ -1,0 +1,12 @@
+# .vscode folder
+.vscode/
+
+# .obj folder
+.obj/
+obj/
+
+# .vs folder
+.vs/
+
+# bin folder
+bin/
